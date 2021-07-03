@@ -389,6 +389,6 @@ bd_init(void *base, void *end) {
     panic("bd_init: free mem");
   }
 
-  bd_print();
+  // bd_print();
 }
 
